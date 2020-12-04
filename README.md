@@ -30,7 +30,7 @@ Box plot contains data of 4 years. In the plot without outliers, the distributio
 ![Vehicle Production over years](bar%20plot.png)
 
 **Observation**:\
-From the bar plot, it is clear that production is vehicles is increasing annually.
+From the bar plot, it is clear that production of vehicles is increasing annually.
 
 ## Sources
 [1]"Category-wise All India automobile production from 2001-02 to 2014-15", data.gov.in, 2020. Available: https://data.gov.in/resources/category-wise-all-india-automobile-production-2001-02-2014-15 \
