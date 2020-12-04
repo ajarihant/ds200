@@ -14,12 +14,12 @@ The data contains Category-wise All India automobile production from 2001-02 to 
 ### Box Plot
 
 #### With Outliers
-![Vehicle Production in 4 years]("box%20plot%20outliers.png")
+![Vehicle Production in 4 years](box%20plot%20outliers.png)
 
 #### Without Outliers
-![Vehicle Production in 4 years]("box%20plot.png")
+![Vehicle Production in 4 years](box%20plot.png)
 
 ### Bar Plot
 
-![Vehicle Production over years]("bar%20plot.png")
+![Vehicle Production over years](bar%20plot.png)
 
